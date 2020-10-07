@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T15:48:36.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="kKLSA43njemN2HX5jHWc" version="13.7.8" type="github"><diagram id="RNRTrBa21dIn0PC7UclZ" name="Page-1">jZPfb4IwEMf/mib6sKTChPk4mFMTfTBu2Y+XpUKFZoWyUgfur98VWoEZkz1Arp+7fq+9uyI3zOqFJEW6ETHlyMFxjdwH5DizWw/+Gpxa4LmzFiSSxS2adGDHfqiB2NAji2k5CFRCcMWKIYxEntNIDRiRUlTDsIPgw6wFSegF2EWEX9IXFqu0pXeO3/ElZUlqM088c7+M2GAjUaYkFlWLmsu5c+SGUgjVWlkdUq5rZ+vSVuDxivd8MElz9Z8N6+3muNx+Pqfv0nv7WG0O++Xqxqh8E340F0aOx0EvKAuSg51oe02e6CuEoWk4gq/8kgr5gYtCF8180PBhYzACraAeo+ncgZixrn8eWzU4Vl/Q4r38S/pR92XE2EbXEVJ7mID0XpsORON9kwhW+tQ4alYe1vfNOcvp1cRNK9TJ9leKYx5TXaIJuKuUKborSKS9FQw0sFRl3LiJjMyE4rNWvwG2mlQqWveQaciCiowqeYIQ68VmzM3r8M2y6kZtYtqK096YeYYRM93JWbkbADDMDNhlN2uNr/dg3fkv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-07T15:50:42.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="YlEgsoamWZ3tpGHTrE2H" version="13.7.8" type="github">
+  <diagram id="RNRTrBa21dIn0PC7UclZ" name="Page-1">
+    <mxGraphModel dx="946" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LQMuHQkUhZr6Y_IMfbHI-1" value="&lt;span&gt;LaTeX \(\sqrt{3×-1}+(1+x)^2\) and&lt;/span&gt;&lt;br&gt;&lt;span&gt;AsciiMath `a^b + b^2 = c^2` inline&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
